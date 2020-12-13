@@ -1,0 +1,2 @@
+- Preço dos itens não esta atualizando
+- Pegar os itens dinamicamente
