@@ -13,4 +13,4 @@ todos os datos foram fornecidos pelo Albion Online Data Project
 
 ------------------------------------------------------------------------------------
 
-<h4>O objetivo desse projeto foi apenas aprender mais sobre consumir e armazenar iformações de apis públicas</h4>
+<h4>O objetivo desse projeto foi apenas aprender mais sobre consumir e armazenar informações de apis públicas</h4>
