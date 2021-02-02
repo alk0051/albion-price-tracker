@@ -1,0 +1,182 @@
+[
+  {
+    "item_id": "T2_FIBER",
+    "city": "Black Market",
+    "minPrice": 0,
+    "maxPrice": 0
+  },
+  {
+    "item_id": "T2_FIBER",
+    "city": "Bridgewatch",
+    "minPrice": 0,
+    "maxPrice": 0
+  },
+  {
+    "item_id": "T2_FIBER",
+    "city": "Caerleon",
+    "minPrice": 30,
+    "maxPrice": 39
+  },
+  {
+    "item_id": "T2_FIBER",
+    "city": "Fort Sterling",
+    "minPrice": 20,
+    "maxPrice": 25
+  },
+  {
+    "item_id": "T2_FIBER",
+    "city": "Lymhurst",
+    "minPrice": 39,
+    "maxPrice": 55
+  },
+  {
+    "item_id": "T2_FIBER",
+    "city": "Martlock",
+    "minPrice": 22,
+    "maxPrice": 30
+  },
+  {
+    "item_id": "T2_FIBER",
+    "city": "Thetford",
+    "minPrice": 21,
+    "maxPrice": 21
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Black Market",
+    "minPrice": 0,
+    "maxPrice": 0
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Bridgewatch",
+    "minPrice": 28,
+    "maxPrice": 150
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Caerleon",
+    "minPrice": 30,
+    "maxPrice": 30
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Fort Sterling",
+    "minPrice": 31,
+    "maxPrice": 39
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Lymhurst",
+    "minPrice": 40,
+    "maxPrice": 48
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Martlock",
+    "minPrice": 29,
+    "maxPrice": 29
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Thetford",
+    "minPrice": 26,
+    "maxPrice": 34
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Arthurs Rest",
+    "minPrice": 193,
+    "maxPrice": 388
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Black Market",
+    "minPrice": 0,
+    "maxPrice": 0
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Bridgewatch",
+    "minPrice": 71,
+    "maxPrice": 90
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Caerleon",
+    "minPrice": 59,
+    "maxPrice": 59
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Fort Sterling",
+    "minPrice": 64,
+    "maxPrice": 74
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Lymhurst",
+    "minPrice": 75,
+    "maxPrice": 88
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Martlock",
+    "minPrice": 83,
+    "maxPrice": 83
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Thetford",
+    "minPrice": 63,
+    "maxPrice": 69
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Black Market",
+    "minPrice": 0,
+    "maxPrice": 0
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Bridgewatch",
+    "minPrice": 335,
+    "maxPrice": 363
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Caerleon",
+    "minPrice": 381,
+    "maxPrice": 4290
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Fort Sterling",
+    "minPrice": 363,
+    "maxPrice": 487
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Lymhurst",
+    "minPrice": 397,
+    "maxPrice": 445
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Martlock",
+    "minPrice": 349,
+    "maxPrice": 387
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Morganas Rest",
+    "minPrice": 283,
+    "maxPrice": 380
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Thetford",
+    "minPrice": 337,
+    "maxPrice": 389
+  }
+]

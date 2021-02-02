@@ -1,0 +1,4 @@
+- [x] Buscar dados de recursos no albion
+- [] Comparar entre cidades em mostrar o menor e o maior custo de forma destacada
+- [] Colocar margem mínima e máxima para ser notificado
+- [] Gerar notificação ao atingir essa margem
