@@ -1,0 +1,12 @@
+{
+  "name": "GUI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+   },
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^11.0.4"
+  }
+}
