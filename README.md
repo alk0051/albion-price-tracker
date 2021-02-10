@@ -8,7 +8,7 @@ all datas are provided by Albion Online Data Project
 
 api para pegar preços atuais dos itens em diferentes cidades do mercado de Albion Online
 
-todos os datos foram fornecidos pelo Albion Online Data Project
+todos os dados foram fornecidos pelo Albion Online Data Project
 
 
 ------------------------------------------------------------------------------------
