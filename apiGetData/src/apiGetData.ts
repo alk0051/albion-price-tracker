@@ -1,106 +1,95 @@
 import * as fs from 'fs';
-import path from 'path';
 import axios from 'axios';
 
 
 interface Item {
   item_id: string,
+	quality: number,
   city: string,
   minPrice: number,
-  maxPrice: number,
 }
 
 
-let itemName: string[] = ['T2_FIBER', 'T3_FIBER', 'T4_FIBER', 'T5_FIBER'];
+const t2: string[] = ['T2_WOOD', 'T2_ROCK', 'T2_ORE', 'T2_FIBER', 'T2_HIDE'];
+const t3: string[] = ['T3_WOOD', 'T3_ROCK', 'T3_ORE', 'T3_FIBER', 'T3_HIDE'];
+const t4: string[] = ['T4_WOOD', 'T4_ROCK', 'T4_ORE', 'T4_FIBER', 'T4_HIDE'];
+const t5: string[] = ['T5_WOOD', 'T5_ROCK', 'T5_ORE', 'T5_FIBER', 'T5_HIDE'];
 
-const url: string = `https://www.albion-online-data.com/api/v2/stats/prices/${itemName}.json?
+const url: string = `https://www.albion-online-data.com/api/v2/stats/prices/${t2},${t3},${t4},${t5}.json?
 locations=Bridgewatch,Caerleon,Fortsterling,Lymhurst,Martlock,Thetford&`;
 
 
 const axiosInstance = axios.create({
   baseURL: url
-})
+});
 
 
-class Item {
-  constructor(item_id: string, city: string, minPrice: number, maxPrice: number) {
-    item: {
-      item_id: this.item_id;
-      city: this.city;
-      minPrice: this.minPrice;
-      maxPrice: this.maxPrice;
-    }
-  }
+const updateFile = (arrayItems: Item[], fileName: string) => {
+	fs.unlinkSync(`${__dirname}/data/${fileName}`);
+  fs.appendFile(`${__dirname}/data/${fileName}`, JSON.stringify(arrayItems, null, 2), () => {});
 }
 
-
-const orderByMinPrice = async (items: Item[], id: string) => {
-  items.sort((a: Item, b: Item) => (a.minPrice > b.minPrice) ? 1 : -1);
-  
-  let array: Item[];
-  let biggerValueItem: Item = {
-    item_id: '',
-    city: '',
-    minPrice: 0,
-    maxPrice: 0
-  };
-  
-  let smallValueItem: Item = {
-    item_id: '',
-    city: '',
-    minPrice: 0,
-    maxPrice: 0
-  };
-
-  items.map((item) => {
-    if (item.item_id === id) {
-      array.push(item);
-      array.sort((a: Item, b: Item) => (a.minPrice > b.minPrice) ? 1 : -1);
-      biggerValueItem = array[array.length - 1];
-      smallValueItem = array[0];
-    }
-  });
-
-  return [items, biggerValueItem, smallValueItem];
-}
-
-
-//setInterval(() => {
-  axiosInstance.get('/').then( async (response) => {
-    const allItems = response.data.map(
-      (data: {
-        item_id: {item_id: string},
-        city: {city: string},
-        sell_price_min: {sell_price_min: number},
-        sell_price_max: {sell_price_max: number},
-      }) => {
-        return {
-          item_id: data.item_id,
-          city: data.city,
-          minPrice: data.sell_price_min,
-          maxPrice: data.sell_price_max,
-        }
-      }
-    );
-    fs.unlink('./datas.json', () => {
-      console.log('[DELETED]: File data.json deleted');
-    });
-
-    fs.appendFile('./datas.json', JSON.stringify(allItems, null, 2), () => {
-      console.log(orderByMinPrice);
-    });
+const readAndReturnFile = (fileName: string) => {
+  fs.readFile(`${__dirname}/data/${fileName}`, 'utf8', (err, data) => {
+    if (err) throw err;
     
-    fs.readFile('./datas.json', 'utf8',(err, data) => {
-      if (err) throw err;
-      
-      const items = JSON.parse(data);
+    const items = JSON.parse(data);
 
-      items.map((item: Item) => {
-        const order = orderByMinPrice(items, item.item_id);
-        console.table(order);
-      });
-
-    });
+    console.log(items);
   });
-//}, 862000);
+}
 
+
+axiosInstance.get('/').then( async (response) => {
+  const getAllItems: Item[] = response.data.map(
+    (data: {
+      item_id: {item_id: string},
+			quality: {quality: string},
+      city: {city: string},
+      sell_price_min: {sell_price_min: number},
+    }) => {
+      return {
+        item_id: data.item_id,
+				quality: data.quality,
+        city: data.city,
+        minPrice: data.sell_price_min,
+      }
+    }
+  );
+
+	let t2_items: Item[] = [];
+	let t3_items: Item[] = [];
+	let t4_items: Item[] = [];
+	let t5_items: Item[] = [];
+
+	getAllItems.map((item) => {
+		if (item.item_id.indexOf('2') > -1) {
+			t2_items.push(item);
+		}
+		if (item.item_id.indexOf('3') > -1) {
+			t3_items.push(item);
+		}
+		if (item.item_id.indexOf('4') > -1) {
+			t4_items.push(item);
+		}
+		if (item.item_id.indexOf('5') > -1) {
+			t5_items.push(item);
+		}
+	});
+
+	t2_items.sort((a, b) => ((a.minPrice > b.minPrice) ? 1 : ((b.minPrice > a.minPrice) ? -1 : 0)));
+	t3_items.sort((a, b) => ((a.minPrice > b.minPrice) ? 1 : ((b.minPrice > a.minPrice) ? -1 : 0)));
+	t4_items.sort((a, b) => ((a.minPrice > b.minPrice) ? 1 : ((b.minPrice > a.minPrice) ? -1 : 0)));
+	t5_items.sort((a, b) => ((a.minPrice > b.minPrice) ? 1 : ((b.minPrice > a.minPrice) ? -1 : 0)));
+  
+	updateFile(t2_items, 't2_items.json');
+	updateFile(t3_items, 't3_items.json');
+	updateFile(t4_items, 't4_items.json');
+	updateFile(t5_items, 't5_items.json');
+
+});
+
+readAndReturnFile('t2_items.json');
+readAndReturnFile('t3_items.json');
+readAndReturnFile('t4_items.json');
+readAndReturnFile('t5_items.json');

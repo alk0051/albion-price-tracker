@@ -8,38 +8,44 @@
   {
     "item_id": "T2_FIBER",
     "city": "Bridgewatch",
-    "minPrice": 0,
-    "maxPrice": 0
+    "minPrice": 23,
+    "maxPrice": 24
   },
   {
     "item_id": "T2_FIBER",
     "city": "Caerleon",
-    "minPrice": 30,
-    "maxPrice": 39
+    "minPrice": 36,
+    "maxPrice": 50
   },
   {
     "item_id": "T2_FIBER",
     "city": "Fort Sterling",
-    "minPrice": 20,
-    "maxPrice": 25
+    "minPrice": 23,
+    "maxPrice": 28
+  },
+  {
+    "item_id": "T2_FIBER",
+    "city": "Highland Cross",
+    "minPrice": 22,
+    "maxPrice": 40
   },
   {
     "item_id": "T2_FIBER",
     "city": "Lymhurst",
-    "minPrice": 39,
-    "maxPrice": 55
-  },
-  {
-    "item_id": "T2_FIBER",
-    "city": "Martlock",
-    "minPrice": 22,
+    "minPrice": 29,
     "maxPrice": 30
   },
   {
     "item_id": "T2_FIBER",
+    "city": "Martlock",
+    "minPrice": 24,
+    "maxPrice": 44
+  },
+  {
+    "item_id": "T2_FIBER",
     "city": "Thetford",
-    "minPrice": 21,
-    "maxPrice": 21
+    "minPrice": 23,
+    "maxPrice": 23
   },
   {
     "item_id": "T3_FIBER",
@@ -50,44 +56,56 @@
   {
     "item_id": "T3_FIBER",
     "city": "Bridgewatch",
-    "minPrice": 28,
-    "maxPrice": 150
+    "minPrice": 36,
+    "maxPrice": 49
   },
   {
     "item_id": "T3_FIBER",
     "city": "Caerleon",
-    "minPrice": 30,
-    "maxPrice": 30
+    "minPrice": 33,
+    "maxPrice": 66
   },
   {
     "item_id": "T3_FIBER",
     "city": "Fort Sterling",
-    "minPrice": 31,
-    "maxPrice": 39
+    "minPrice": 60,
+    "maxPrice": 130
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Highland Cross",
+    "minPrice": 29,
+    "maxPrice": 450
   },
   {
     "item_id": "T3_FIBER",
     "city": "Lymhurst",
-    "minPrice": 40,
-    "maxPrice": 48
+    "minPrice": 54,
+    "maxPrice": 60
   },
   {
     "item_id": "T3_FIBER",
     "city": "Martlock",
-    "minPrice": 29,
-    "maxPrice": 29
+    "minPrice": 33,
+    "maxPrice": 34
+  },
+  {
+    "item_id": "T3_FIBER",
+    "city": "Morganas Rest",
+    "minPrice": 25,
+    "maxPrice": 46
   },
   {
     "item_id": "T3_FIBER",
     "city": "Thetford",
-    "minPrice": 26,
-    "maxPrice": 34
+    "minPrice": 30,
+    "maxPrice": 50
   },
   {
     "item_id": "T4_FIBER",
     "city": "Arthurs Rest",
-    "minPrice": 193,
-    "maxPrice": 388
+    "minPrice": 149,
+    "maxPrice": 150
   },
   {
     "item_id": "T4_FIBER",
@@ -98,38 +116,50 @@
   {
     "item_id": "T4_FIBER",
     "city": "Bridgewatch",
-    "minPrice": 71,
-    "maxPrice": 90
+    "minPrice": 68,
+    "maxPrice": 70
   },
   {
     "item_id": "T4_FIBER",
     "city": "Caerleon",
-    "minPrice": 59,
-    "maxPrice": 59
+    "minPrice": 55,
+    "maxPrice": 57
   },
   {
     "item_id": "T4_FIBER",
     "city": "Fort Sterling",
-    "minPrice": 64,
-    "maxPrice": 74
+    "minPrice": 72,
+    "maxPrice": 100
+  },
+  {
+    "item_id": "T4_FIBER",
+    "city": "Highland Cross",
+    "minPrice": 58,
+    "maxPrice": 107
   },
   {
     "item_id": "T4_FIBER",
     "city": "Lymhurst",
-    "minPrice": 75,
-    "maxPrice": 88
+    "minPrice": 77,
+    "maxPrice": 89
   },
   {
     "item_id": "T4_FIBER",
     "city": "Martlock",
-    "minPrice": 83,
-    "maxPrice": 83
+    "minPrice": 68,
+    "maxPrice": 75
   },
   {
     "item_id": "T4_FIBER",
     "city": "Thetford",
-    "minPrice": 63,
-    "maxPrice": 69
+    "minPrice": 65,
+    "maxPrice": 68
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Arthurs Rest",
+    "minPrice": 629,
+    "maxPrice": 650
   },
   {
     "item_id": "T5_FIBER",
@@ -140,43 +170,43 @@
   {
     "item_id": "T5_FIBER",
     "city": "Bridgewatch",
-    "minPrice": 335,
-    "maxPrice": 363
+    "minPrice": 350,
+    "maxPrice": 399
   },
   {
     "item_id": "T5_FIBER",
     "city": "Caerleon",
+    "minPrice": 330,
+    "maxPrice": 390
+  },
+  {
+    "item_id": "T5_FIBER",
+    "city": "Fort Sterling",
     "minPrice": 381,
-    "maxPrice": 4290
+    "maxPrice": 485
   },
   {
     "item_id": "T5_FIBER",
-    "city": "Fort Sterling",
-    "minPrice": 363,
-    "maxPrice": 487
+    "city": "Highland Cross",
+    "minPrice": 0,
+    "maxPrice": 0
   },
   {
     "item_id": "T5_FIBER",
     "city": "Lymhurst",
-    "minPrice": 397,
-    "maxPrice": 445
+    "minPrice": 380,
+    "maxPrice": 382
   },
   {
     "item_id": "T5_FIBER",
     "city": "Martlock",
-    "minPrice": 349,
-    "maxPrice": 387
-  },
-  {
-    "item_id": "T5_FIBER",
-    "city": "Morganas Rest",
-    "minPrice": 283,
-    "maxPrice": 380
+    "minPrice": 374,
+    "maxPrice": 414
   },
   {
     "item_id": "T5_FIBER",
     "city": "Thetford",
-    "minPrice": 337,
-    "maxPrice": 389
+    "minPrice": 350,
+    "maxPrice": 371
   }
 ]

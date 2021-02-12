@@ -1,0 +1,260 @@
+[
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 196
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 200
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 227
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 232
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 266
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 273
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 275
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 290
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 305
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 307
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 309
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 310
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 314
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 314
+  },
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 317
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 321
+  },
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 327
+  },
+  {
+    "item_id": "T5_WOOD",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 329
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 356
+  },
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 357
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 371
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 372
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 375
+  },
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 379
+  },
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 389
+  },
+  {
+    "item_id": "T5_ORE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 390
+  },
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 392
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 396
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 451
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 494
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 499
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 506
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 525
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 546
+  },
+  {
+    "item_id": "T5_HIDE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 576
+  },
+  {
+    "item_id": "T5_FIBER",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 627
+  },
+  {
+    "item_id": "T5_ROCK",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 700
+  }
+]

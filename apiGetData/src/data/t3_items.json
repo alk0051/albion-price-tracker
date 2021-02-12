@@ -1,0 +1,254 @@
+[
+  {
+    "item_id": "T3_FIBER",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 25
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 30
+  },
+  {
+    "item_id": "T3_FIBER",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 32
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 34
+  },
+  {
+    "item_id": "T3_FIBER",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 35
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 35
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 36
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 36
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Highland Cross",
+    "minPrice": 36
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 36
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 37
+  },
+  {
+    "item_id": "T3_FIBER",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 38
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 38
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 39
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 39
+  },
+  {
+    "item_id": "T3_FIBER",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 40
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 40
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 40
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 42
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 42
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 44
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 44
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 44
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 45
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 45
+  },
+  {
+    "item_id": "T3_ROCK",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 47
+  },
+  {
+    "item_id": "T3_FIBER",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 50
+  },
+  {
+    "item_id": "T3_FIBER",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 55
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 55
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 55
+  },
+  {
+    "item_id": "T3_ORE",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 67
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 78
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 80
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 91
+  },
+  {
+    "item_id": "T3_HIDE",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 138
+  },
+  {
+    "item_id": "T3_WOOD",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 139
+  }
+]

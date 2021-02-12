@@ -1,0 +1,236 @@
+[
+  {
+    "item_id": "T2_FIBER",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T2_ROCK",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 7
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 8
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 9
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 9
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 9
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 10
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 10
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 11
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 12
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 13
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 14
+  },
+  {
+    "item_id": "T2_FIBER",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 16
+  },
+  {
+    "item_id": "T2_FIBER",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 19
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 20
+  },
+  {
+    "item_id": "T2_FIBER",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 23
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 25
+  },
+  {
+    "item_id": "T2_ROCK",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 25
+  },
+  {
+    "item_id": "T2_FIBER",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 26
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 27
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 28
+  },
+  {
+    "item_id": "T2_FIBER",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 29
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 30
+  },
+  {
+    "item_id": "T2_ROCK",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 30
+  },
+  {
+    "item_id": "T2_ROCK",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 30
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 33
+  },
+  {
+    "item_id": "T2_FIBER",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 34
+  },
+  {
+    "item_id": "T2_ROCK",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 34
+  },
+  {
+    "item_id": "T2_ROCK",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 36
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 39
+  },
+  {
+    "item_id": "T2_WOOD",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 42
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 48
+  },
+  {
+    "item_id": "T2_ROCK",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 54
+  },
+  {
+    "item_id": "T2_HIDE",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 139
+  },
+  {
+    "item_id": "T2_ORE",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 169
+  }
+]

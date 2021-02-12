@@ -1,0 +1,266 @@
+[
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Black Market",
+    "minPrice": 0
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 21
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 22
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 22
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 25
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 26
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 27
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 27
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 33
+  },
+  {
+    "item_id": "T4_ROCK",
+    "quality": 1,
+    "city": "2000",
+    "minPrice": 38
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "2000",
+    "minPrice": 38
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 39
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 39
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 46
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 47
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 50
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 52
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 55
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 60
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 60
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 61
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 61
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 63
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 65
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 65
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 67
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 69
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 71
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 75
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Caerleon",
+    "minPrice": 102
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Fort Sterling",
+    "minPrice": 111
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 121
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Lymhurst",
+    "minPrice": 123
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Bridgewatch",
+    "minPrice": 125
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Martlock",
+    "minPrice": 139
+  },
+  {
+    "item_id": "T4_FIBER",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 147
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 147
+  },
+  {
+    "item_id": "T4_HIDE",
+    "quality": 1,
+    "city": "Morganas Rest",
+    "minPrice": 197
+  },
+  {
+    "item_id": "T4_WOOD",
+    "quality": 1,
+    "city": "Arthurs Rest",
+    "minPrice": 272
+  },
+  {
+    "item_id": "T4_ORE",
+    "quality": 1,
+    "city": "Thetford",
+    "minPrice": 15215
+  }
+]
